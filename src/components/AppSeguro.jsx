@@ -1,5 +1,6 @@
 import React from 'react'
 import Formulario from './Formulario'
+// import useCotizador from '../hooks/useCotizador'
 
 export default function AppSeguro() {
   return (
